@@ -1,5 +1,7 @@
-<style>
-h1, h2, p {
-  text-align: center;
+body {
+    background-color: burlywood;
 }
-</style>
+  
+h1, h2, p {
+    text-align: center;
+}
