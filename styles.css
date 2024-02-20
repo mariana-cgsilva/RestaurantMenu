@@ -62,3 +62,23 @@ hr{
 }
 
 /*FOOTER*/
+
+footer{
+    font-size: 14px;
+}
+
+a {
+    color: black;
+}
+
+a:visited {             /*Caso link ja tenha sido visitado*/
+    color: grey;
+}
+
+a:hover {               /*Ao passar o mouse no link*/
+    color: brown 
+}
+
+a:active {             /*Ao clicar no link*/
+    color: white;
+}
