@@ -45,4 +45,10 @@ h2{
 
 .established{
     font-style: italic;
-  }
+}
+
+hr{
+    height: 2px;
+    background-color: brown;
+    border-color: brown;
+}
